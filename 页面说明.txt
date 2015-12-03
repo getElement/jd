@@ -1,0 +1,14 @@
+/*jd页面说明*/
+index.html				主页
+login.html				登录
+regiter.html			注册
+fashion.html			服装城
+beautysale.html			美妆
+chaoshi.html			超市
+globalbuy.html			全球购
+fastbuy.html			闪购
+groupbuy.html			团购
+auction.html			拍卖
+finacial.html			金融
+smart.html				智能
+
